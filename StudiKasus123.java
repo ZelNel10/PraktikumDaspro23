@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class StudiKasus123 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int hargaPerCup = 18000;
+        int jumlahCup, uangBayar, totalHarga, diskon, totalBayar, kembalian, kurang;
+        
+        System.out.print("Masukkan jumlah cup: ");
+        jumlahCup = input.nextInt();
+        System.out.print("Masukkan uang bayar: ");
+        uangBayar = input.nextInt();
+
+    }
+}
